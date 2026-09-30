@@ -1,0 +1,8 @@
+{
+  "name": "Remix ProcureSource Enterprise RFQ",
+  "description": "Solo enterprise procurement platform for high-velocity RFQ broadcasting, automated supplier deadline tracking, and real-time quotation comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
